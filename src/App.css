@@ -36,3 +36,89 @@
     transform: rotate(360deg);
   }
 }
+/* HEADER */
+.navbar{
+  padding: 10px 250px;
+}
+/* BANNER */
+.banner1{
+  width: 78%;
+  position: relative;
+  left: 130px;
+  padding: 34px !important;
+  background-color: #e8ecef !important;
+}
+.bannerWelcome{
+  text-align: left;
+  position: relative;
+  bottom: 40px;
+  right: 60px;
+  font-size: 60px;
+  font-weight: 400 !important;
+}
+.bannerLorem{
+  text-align: left;
+    position: relative;
+    right: 56px;
+    color: #b7b7a4;
+    width: 117%;
+    margin-top: -24px;
+}
+.bannerButton{
+  text-align: left; 
+  position: absolute;
+  left: 28px;
+}
+/* ITEM */
+.card-header{
+  font-size: 20px;
+    background: #CCCCCC !important;
+    padding: 55px;
+    width: 117%;
+    position: relative;
+    right: 15px;
+    border-radius: 3px !important;
+    margin-bottom: 20px !important;
+}
+.card{
+  width: 60%;
+}
+.card-footer{
+  right: 16px;
+    width: 116%;
+    padding: 12px;
+    position: relative;
+    bottom: -84px;
+}
+.btnCFooter{
+  color: white;
+  background-color: #0478F8;
+  border-radius: 3px;
+  border: none;
+  padding: 5px 14px;
+}
+.card1{
+  position: relative;
+    left: 130px;
+  height: 105% !important;
+}
+.card2{
+  position: relative;
+    right: 51px;
+  height: 105% !important;
+}
+.card3{
+  position: relative;
+    right: 231px;
+  height: 105% !important;
+}
+.card4{
+  position: relative;
+  left: 859px;
+  bottom: 413px;
+  height: 105% !important;
+}
+/* .footer2{
+  position: relative;
+  bottom: 48px !important;
+} */
